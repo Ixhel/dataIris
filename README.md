@@ -1,11 +1,9 @@
 # dataIris
 
-This is a data projection analysis and interpretation to detect outliers comparing methods. Using boxplots construction and quantiles versus DBSCAN algorithm determining euclidian distances.
-
-Ixhel
+This is a data projection analysis and interpretation to detect outliers comparing methods. Using boxplots construction with quantiles versus DBSCAN algorithm determining euclidian distances.
+- Ixhel
 
 Abstract: 
-
 A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise
 - Martin Ester, Hans-Peter Kriegel, Jörg Sander, Xiaowei Xu
 
